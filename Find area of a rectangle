@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int l,w;
+    cout << "enter the length of the retangle" <<endl;
+    cin >> l;
+    cout << "enter the width of the rectangle" << endl;
+    cin >>w;
+    cout << "area of the rectangle is : "<< l*w << endl;
+}
